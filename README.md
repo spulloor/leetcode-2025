@@ -7,4 +7,4 @@
 * Matrix
 * Sliding Window
 * Two Pointers
-* Intervals
+* Intervals - Minimum no. of arrows I didn't understand
