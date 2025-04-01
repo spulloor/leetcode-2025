@@ -1,7 +1,7 @@
 # leetcode-2025
 ## Solving 1 leetcode at a time
 
-### Have solved 35 problems in total in the 
+### Have solved 36 problems in total in the 
 * Array/String
 * HashMaps
 * Matrix
